@@ -1,0 +1,32 @@
+/*
+ * @name randomv2
+ * @author 899s
+ * @authorId 950084388354408478
+ * @authorLink https://hahahaha.none.com
+ * @version 0.0.2
+ * @description second attempt at making a theme. This one looks a lot better
+ * @website https://hahahanone.com
+ * @source https://github.com/Cxzah/aero/
+*/
+
+.scrollerInner__36d07 {
+	padding: 0.5em;
+}
+ 
+.scrollerInner__36d07 li {
+	background-color: rgba(0,0,0, 0.15);
+	color: white;
+}
+
+.chatContent_f75fb0 {
+	background-color: gray;
+	background-image: url("https://preview.redd.it/my-first-frutiger-aurora-what-do-you-think-v0-rtwfmw33zylc1.png?auto=webp&s=4c1db8ef613fbcaa77bdc253625b0d9a21ff9314");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.mention.wrapper_f61d60.interactive {
+	background-color: rgba(255, 0, 0, 0.4);
+	color: white;
+}
